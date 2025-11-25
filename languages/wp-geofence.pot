@@ -1,60 +1,55 @@
 # 
 # POT file for WP Geofence
-# Copyright (C) 2025 You
+# Copyright (C) 2025 Alex Meusburger
 # This file is distributed under the same license as the WP Geofence package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+# ALEX MEUSBURGER <meusburger.alex@gmail.com>, 2025.
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: WP Geofence 1.0.4\n"
+"Project-Id-Version: WP Geofence 1.0.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 11:10-0000\n"
-"PO-Revision-Date: 2025-11-25 15:50+0000\n"
-"Last-Translator: \n"
-"Language-Team: Português do Brasil\n"
-"Language: pt_BR\n"
+"POT-Creation-Date: 2025-11-25 15:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ALEX MEUSBURGER <meusburger.alex@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Text-Domain: wp-geofence\n"
-"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.2.29"
 
 #: wp-geofence.php:407
 msgid "0 = do not require minimum accuracy."
-msgstr "0 = não requer precisão mínima."
+msgstr ""
 
 #: wp-geofence.php:332
 msgid "About WP Geofence"
-msgstr "Sobre o WP Geofence"
+msgstr ""
 
 #. Author of the plugin
 msgid "Alex Meusburger"
-msgstr "Alex Meusburger"
+msgstr ""
 
 #: wp-geofence.php:373
 msgid ""
 "Be sure of what you want to do when using the tags below, as they modify the "
 "default behavior set in the plugin settings and may cause unexpected effects."
 msgstr ""
-"Certifique-se do que deseja fazer ao usar as tags abaixo, pois elas "
-"modificam o comportamento padrão definido nas configurações do plugin e "
-"podem causar efeitos inesperados."
 
 #: wp-geofence.php:412
 msgid "Cache accuracy threshold (m)"
-msgstr "Limiar de precisão do cache (m)"
+msgstr ""
 
 #: wp-geofence.php:412
 msgid "Cache is used only if stored position has accuracy <= this value."
 msgstr ""
-"O cache só é utilizado se a posição armazenada tiver uma precisão menor ou "
-"igual a este valor."
 
 #: wp-geofence.php:411
 msgid "Cache TTL (seconds)"
-msgstr "Tempo de vida do cache (em segundos)"
+msgstr ""
 
 #: wp-geofence.php:423
 msgid ""
@@ -62,73 +57,64 @@ msgid ""
 "from the database and restore them to the original default values defined in "
 "the code."
 msgstr ""
-"Clicar no botão abaixo excluirá permanentemente todas as configurações "
-"salvas do plugin do banco de dados e as restaurará aos valores padrão "
-"originais definidos no código."
 
 #: wp-geofence.php:420
 msgid "Danger Zone: Restore Settings"
-msgstr "Zona de Perigo: Restaurar Configurações"
+msgstr ""
 
 #: wp-geofence.php:398
 msgid "Default areas"
-msgstr "Áreas padrão"
+msgstr ""
 
 #: wp-geofence.php:406
 msgid "Default redirect URL"
-msgstr "URL de redirecionamento padrão"
+msgstr ""
 
 #: wp-geofence.php:409 wp-geofence.php:410
 msgid "Disabled"
-msgstr "Desabilitado"
+msgstr ""
 
 #: wp-geofence.php:409 wp-geofence.php:410
 msgid "Enabled"
-msgstr "Habilitado"
+msgstr ""
 
 #: wp-geofence.php:359
 msgid "Expanded use"
-msgstr "Uso expandido"
+msgstr ""
 
 #: wp-geofence.php:395
 msgid "General settings"
-msgstr "Configurações gerais"
+msgstr ""
 
 #: wp-geofence.php:404
 msgid "GPS error message"
-msgstr "Mensagem de erro do GPS"
+msgstr ""
 
 #: wp-geofence.php:334
 msgid "How it works"
-msgstr "Como funciona"
+msgstr ""
 
 #: wp-geofence.php:351
 msgid "How to use"
-msgstr "Como usar"
+msgstr ""
 
 #: wp-geofence.php:433
 msgid ""
 "I confirm that I understand this action is irreversible and I agree to "
 "restore all settings to their original defaults."
 msgstr ""
-"Confirmo que compreendo que esta ação é irreversível e concordo em restaurar "
-"todas as configurações aos seus valores originais de fábrica."
 
 #: wp-geofence.php:338
 msgid ""
 "If the visitor is inside the configured area, the protected content becomes "
 "visible."
 msgstr ""
-"Se o visitante estiver dentro da área configurada, o conteúdo protegido se "
-"tornará visível."
 
 #: wp-geofence.php:339
 msgid ""
 "If the visitor is outside the permitted area, the plugin displays a message "
 "or performs a redirect."
 msgstr ""
-"Se o visitante estiver fora da área permitida, o plugin exibe uma mensagem "
-"ou realiza um redirecionamento."
 
 #: wp-geofence.php:360
 msgid ""
@@ -136,37 +122,30 @@ msgid ""
 "established as the default in the plugin settings, you can configure it "
 "directly using tags, as shown below."
 msgstr ""
-"Caso você precise usar alguma configuração pontual, diferente do que foi "
-"estabelecido como padrão nas configurações do plugin, você poderá configurar "
-"diretamente usando tags, conforme abaixo."
 
 #: wp-geofence.php:410
 msgid "Intelligent cache (only if needed)"
-msgstr "Cache inteligente (somente se necessário)"
+msgstr ""
 
 #: wp-geofence.php:409
 msgid "Lazy load"
-msgstr "Carregamento lento"
+msgstr ""
 
 #: wp-geofence.php:406
 msgid "Leave empty to disable redirect."
-msgstr "Deixe em branco para desativar o redirecionamento."
+msgstr ""
 
 #: wp-geofence.php:401
 msgid ""
 "Legacy formats are still accepted: -23.55,-46.63,40 | -23.551,-46.632,20 or "
 "one area per line."
 msgstr ""
-"Os formatos antigos ainda são aceitos: -23.55,-46.63,40 | -23.551,-46.632,20 "
-"ou uma área por linha."
 
 #: wp-geofence.php:409
 msgid ""
 "Load content only after approval. Useful for embeds that break before "
 "validation."
 msgstr ""
-"Carregar conteúdo somente após aprovação. Útil para imagens incorporadas que "
-"quebram antes da validação."
 
 #: wp-geofence.php:353
 msgid ""
@@ -174,81 +153,76 @@ msgid ""
 "options. They will be used globally, and you wont need to type anything "
 "other than the tags, as shown below."
 msgstr ""
-"Certifique-se de ter configurado todas as variáveis ​​necessárias nas opções "
-"deste plugin. Elas serão usadas globalmente e você não precisará digitar "
-"nada além das tags, como mostrado abaixo."
 
 #: wp-geofence.php:411
 msgid "Max age of cached position (30-240 seconds)."
-msgstr "Tempo máximo de vida útil da posição em cache (30-240 segundos)."
+msgstr ""
 
 #: wp-geofence.php:403
 msgid "Message when outside"
-msgstr "Mensagem quando estiver fora"
+msgstr ""
 
 #: wp-geofence.php:407
 msgid "Minimum accuracy (m)"
-msgstr "Precisão mínima (m)"
+msgstr ""
 
 #: wp-geofence.php:346
 msgid "Multiple areas:"
-msgstr "Diversas áreas:"
+msgstr ""
 
 #: wp-geofence.php:400
 msgid ""
 "New format: lat:-23.5505; lng:-46.6333; radius:50 ; lat:-23.56; lng:-46.63; "
 "radius:20"
 msgstr ""
-"Novo formato: lat:-23.5505; lng:-46.6333; radius:50 ; lat:-23.56; lng:-46.63;"
-" radius:20"
 
 #: wp-geofence.php:408
 msgid "No (show content before validation)"
-msgstr "Não (mostrar conteúdo antes da validação)"
+msgstr ""
 
 #: wp-geofence.php:371
 msgid "Other resources:"
-msgstr "Outros recursos:"
+msgstr ""
 
 #: wp-geofence.php:319
 msgid "Overview"
-msgstr "Visão geral"
+msgstr ""
 
 #: wp-geofence.php:193
 msgid "Position updated — access revoked."
-msgstr "Posição atualizada — acesso revogado."
+msgstr ""
 
 #: wp-geofence.php:192
 msgid "Precision insufficient:"
-msgstr "Precisão insuficiente:"
+msgstr ""
 
 #: wp-geofence.php:384
 msgid "Privacy"
-msgstr "Privacidade"
+msgstr ""
 
 #: wp-geofence.php:356 wp-geofence.php:364
 msgid "Protected content..."
-msgstr "Conteúdo protegido..."
+msgstr ""
 
 #: wp-geofence.php:342
 msgid "Recommended new format:"
-msgstr "Novo formato recomendado:"
+msgstr ""
 
 #: wp-geofence.php:325
 msgid "Restore"
-msgstr "Restaurar"
+msgstr ""
 
 #: wp-geofence.php:438
 msgid "Restore Original Settings"
-msgstr "Restaurar Configurações Originais"
+msgstr ""
 
 #: wp-geofence.php:322
 msgid "Settings"
-msgstr "Configurações"
+msgstr ""
 
 #: wp-geofence.php:308
 msgid "Settings restored to default values."
-msgstr "Configurações restauradas aos valores padrão."
+msgstr ""
 
 #. Description of the plugin
 msgid ""
@@ -256,85 +230,64 @@ msgid ""
 "Gutenberg block with map editor, lazy-load, per-shortcode intelligent cache "
 "and translations."
 msgstr ""
-"Exibe ou oculta conteúdo com base na geolocalização do visitante. Compatível "
-"com shortcodes e blocos do Gutenberg, incluindo editor de mapas, "
-"carregamento lento (lazy-load), cache inteligente por shortcode e traduções."
 
 #: wp-geofence.php:410
 msgid ""
 "Stores last position locally to speed up immediate validation. Can cause "
 "errors if the user moves. Default disabled."
 msgstr ""
-"Armazena a última posição localmente para acelerar a validação imediata. "
-"Pode causar erros se o usuário se mover. Desativado por padrão."
 
 #: wp-geofence.php:408
 msgid "Strict mode"
-msgstr "Modo estrito"
+msgstr ""
 
 #: wp-geofence.php:341
 msgid "Supported formats"
-msgstr "Formatos suportados"
+msgstr ""
 
 #: wp-geofence.php:369
 msgid ""
 "The block works as a shortcode generator. All geolocation validation happens "
 "only on the frontend, not in the block editor."
 msgstr ""
-"O bloco funciona como um gerador de shortcodes. Toda a validação de "
-"geolocalização ocorre apenas no frontend, não no editor de blocos."
 
 #: wp-geofence.php:386
-#| msgid ""
-#| "The user’s location is never stored on the server. All geolocation "
-#| "processing occurs exclusively in the visitor’s browser."
 msgid ""
 "The user's location is never stored on the server. All geolocation "
 "processing occurs exclusively in the visitor's browser."
 msgstr ""
-"A localização do usuário nunca é armazenada no servidor. Todo o "
-"processamento de geolocalização ocorre exclusivamente no navegador do "
-"visitante."
 
 #: wp-geofence.php:337
 msgid "The visitor allows location access in the browser."
-msgstr "O visitante permite o acesso à localização no navegador."
+msgstr ""
 
 #: wp-geofence.php:422
 msgid "This action is irreversible."
-msgstr "Essa ação é irreversível."
+msgstr ""
 
 #: wp-geofence.php:377
 msgid ""
 "Use \"accuracy\" tag to configure a GPS coordinate accuracy (different from "
 "default)."
 msgstr ""
-"Use a tag \"accuracy\" para configurar a precisão das coordenadas GPS "
-"(diferente da padrão)."
 
 #: wp-geofence.php:380
 msgid ""
 "Use \"cache\" tag to configure validity of GPS coordinate cache (different "
 "from default)."
 msgstr ""
-"Use a tag \"cache\" para configurar a validade do cache de coordenadas GPS "
-"(diferente do padrão)."
 
 #: wp-geofence.php:382
 msgid ""
 "Use \"cache_accuracy\" tag to configure the accuracy of the GPS coordinate "
 "cache (different from the default)."
 msgstr ""
-"Use a tag \"cache_accuracy\" para configurar a precisão do cache de "
-"coordenadas GPS (diferente do padrão)."
 
 #: wp-geofence.php:381
 msgid ""
 "Use \"cache_ttl\" tag to configure validity of GPS coordinate cache "
 "(different from default)."
 msgstr ""
-"Use a tag \"cache_ttl\" para configurar a validade do cache de coordenadas "
-"GPS (diferente do padrão)."
 
 #: wp-geofence.php:379
 msgid ""
@@ -342,58 +295,47 @@ msgid ""
 "validation before being displayed (different from default). For this case, "
 "use \"yes\" or \"no\"."
 msgstr ""
-"Use a tag \"lazyload\" para configurar se o conteúdo deve ou não aguardar a "
-"validação do GPS antes de ser exibido (diferente do padrão). Nesse caso, use "
-"\"yes\" ou \"no\"."
 
 #: wp-geofence.php:375
 msgid ""
 "Use \"msg_error\" tag to configure text (different from default) for errors "
 "when obtaining GPS coordinates from user."
 msgstr ""
-"Use a tag \"msg_error\" para configurar o texto (diferente do padrão) para "
-"erros ao obter coordenadas GPS do usuário."
 
 #: wp-geofence.php:374
 msgid ""
 "Use \"msg_out\" tag to configure text (different from default) for users "
 "outside configured area."
 msgstr ""
-"Use a tag \"msg_out\" para configurar o texto (diferente do padrão) para "
-"usuários fora da área configurada."
 
 #: wp-geofence.php:376
 msgid ""
 "Use \"redirect\" tag to configure a redirect that will occur when there is "
 "an error obtaining users GPS coordinates."
 msgstr ""
-"Use a tag \"redirect\" para configurar um redirecionamento que ocorrerá "
-"quando houver um erro ao obter as coordenadas GPS do usuário."
 
 #: wp-geofence.php:378
 msgid ""
 "Use \"strict\" tag to configure whether content will be strict or not "
 "(different from default). For this case, use \"yes\" or \"no\"."
 msgstr ""
-"Use a tag \"strict\" para configurar se o conteúdo será estrito ou não "
-"(diferente do padrão). Nesse caso, use \"yes\" ou \"no\"."
 
 #: wp-geofence.php:368
 msgid "Using the Gutenberg block:"
-msgstr "Utilizando o bloco Gutenberg:"
+msgstr ""
 
 #: wp-geofence.php:352 wp-geofence.php:361
 msgid "Using the shortcode:"
-msgstr "Utilizando o código curto:"
+msgstr ""
 
 #: wp-geofence.php:484
 msgid "Validating location..."
-msgstr "Validando a localização..."
+msgstr ""
 
 #. Name of the plugin
 #: wp-geofence.php:169 wp-geofence.php:315
 msgid "WP Geofence"
-msgstr "WP Geofence"
+msgstr ""
 
 #: wp-geofence.php:333
 msgid ""
@@ -401,20 +343,15 @@ msgid ""
 "location of the visitor. The plugin uses the browser's geolocation API to "
 "validate the user's position in real time."
 msgstr ""
-"O WP Geofence permite mostrar ou ocultar conteúdo com base na localização "
-"geográfica do visitante. O plugin utiliza a API de geolocalização do "
-"navegador para validar a posição do usuário em tempo real."
 
 #: wp-geofence.php:408
 msgid "Yes (hide content until validated)"
-msgstr "Sim (ocultar conteúdo até ser validado)"
+msgstr ""
 
 #: wp-geofence.php:336
 msgid "You define geographic areas with latitude, longitude, and radius."
 msgstr ""
-"Você define áreas geográficas com latitude(lat), longitude(lng) e raio "
-"(radius)."
 
 #: wp-geofence.php:191
 msgid "Your browser does not support geolocation."
-msgstr "Seu navegador não suporta geolocalização."
+msgstr ""
