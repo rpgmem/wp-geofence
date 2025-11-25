@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Geofence 1.0\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Access denied: you are outside the authorized area."
+msgstr "Acesso negado: você está fora da área autorizada."
+
+msgid "Error obtaining your location."
+msgstr "Erro ao obter sua localização."
+
+msgid "Your browser does not support geolocation."
+msgstr "Seu navegador não suporta geolocalização."
+
+msgid "Precision insufficient:"
+msgstr "Precisão insuficiente:"
+
+msgid "Position updated — access revoked."
+msgstr "Posição atualizada — acesso revogado."
+
+msgid "WP Geofence Settings"
+msgstr "Configurações do WP Geofence"
+
+msgid "General settings"
+msgstr "Configurações gerais"
+
+msgid "Areas (lat,lng,radius) separated by \"|\""
+msgstr "Áreas (lat,lng,raio) separadas por \"|\""
+
+msgid "Example: -23.55,-46.63,40 | -23.551,-46.632,20"
+msgstr "Ex.: -23.55,-46.63,40 | -23.551,-46.632,20"
+
+msgid "Message when outside"
+msgstr "Mensagem fora da área"
+
+msgid "GPS error message"
+msgstr "Mensagem de erro de GPS"
+
+msgid "Default redirect URL"
+msgstr "URL de redirecionamento padrão"
+
+msgid "Leave empty to disable redirect."
+msgstr "Deixe vazio para não redirecionar."
+
+msgid "Minimum accuracy (m)"
+msgstr "Precisão mínima (m)"
+
+msgid "0 = do not require minimum accuracy."
+msgstr "0 = não exigir precisão mínima."
+
+msgid "Strict mode"
+msgstr "Modo estrito"
+
+msgid "Yes (hide content until validated)"
+msgstr "Sim (ocultar conteúdo até validação)"
+
+msgid "No (show content before validation)"
+msgstr "Não (mostrar conteúdo antes da validação)"
+
+msgid "Lazy load"
+msgstr "Lazy load"
+
+msgid "Disabled"
+msgstr "Desativado"
+
+msgid "Enabled"
+msgstr "Ativado"
+
+msgid "Load content only after approval. Useful for embeds that break before validation."
+msgstr "Carrega o conteúdo somente após aprovação. Útil para embeds que quebram antes da validação."
+
+msgid "Intelligent cache (only if needed)"
+msgstr "Cache inteligente (somente se necessário)"
+
+msgid "Stores last position locally to speed up immediate validation. Can cause errors if the user moves. Default disabled."
+msgstr "Armazena a última posição localmente para acelerar a validação imediata. Pode causar erros se o usuário se mover. Padrão: desativado."
+
+msgid "Cache TTL (seconds)"
+msgstr "Validade do cache (segundos)"
+
+msgid "Max age of cached position (30-240 seconds)."
+msgstr "Tempo máximo da posição em cache (30-240 segundos)."
+
+msgid "Cache accuracy threshold (m)"
+msgstr "Precisão máxima do cache (m)"
+
+msgid "Cache is used only if stored position has accuracy <= this value."
+msgstr "O cache é usado somente se a posição armazenada tiver precisão <= este valor."
+
+msgid "Validating location..."
+msgstr "Validando localização..."
+
+msgid "Protected geofence content…"
+msgstr "Conteúdo protegido pelo geofence…"
